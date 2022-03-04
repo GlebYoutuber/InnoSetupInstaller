@@ -1,7 +1,7 @@
 # InnoSetupInstaller
 Inno Setup Installer(Portable Version)
 
-Just Select 1 or 2, Press Enter and Inno Setup was Installed Successfully :D 
+Just Select 1 or 2, Press Enter and Inno Setup Installed Successfully :D 
 
 ## Donation 
 
