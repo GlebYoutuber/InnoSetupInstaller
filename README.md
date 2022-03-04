@@ -1,5 +1,5 @@
 # InnoSetupInstaller
-Inno Setup Installer(Portable Version)
+Inno Setup Installer(Portable Version of Inno Setup)
 
 Just Select 1 or 2, Press Enter and Inno Setup Installed Successfully :D 
 
