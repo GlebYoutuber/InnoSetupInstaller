@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnoSetupInstaller", "InnoSetupInstaller\InnoSetupInstaller.csproj", "{CD38EBE1-CB74-4A20-A2EF-90AFF4B1899C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD38EBE1-CB74-4A20-A2EF-90AFF4B1899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD38EBE1-CB74-4A20-A2EF-90AFF4B1899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD38EBE1-CB74-4A20-A2EF-90AFF4B1899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD38EBE1-CB74-4A20-A2EF-90AFF4B1899C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D30232-8464-4088-B6A2-D1732B00FD8C}
+	EndGlobalSection
+EndGlobal
