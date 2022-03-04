@@ -71,7 +71,7 @@ namespace InnoSetupInstaller
                     key1.SetValue(String.Empty, "Open with Inno Setup", RegistryValueKind.String);
                     var key2 = Registry.ClassesRoot.OpenSubKey(@".iss\shell\InnoSetup\command", true);
                     const string quote = "\"";
-                    key2.SetValue(String.Empty, @"C:\Program Files\InnoSetup\Compil32.exe" + quote + "%1" + quote);
+                    key2.SetValue(String.Empty, @"C:\Program Files\InnoSetup\Compil32.exe " + quote + "%1" + quote);
                     Thread.Sleep(5500);
                     gjc.Stop();
                     File.Delete(@"C:\MusicHeart\HeartOfCourage.wav");
